@@ -1,6 +1,6 @@
 # Projeto HTML+CSS+JS: Portfólio Front-end 👨🏻‍💻
 
-Este repositório contém um exercício prático de HTML e CSS que explora a estilização de páginas da web com base em todo conteudo ensinado no módulo do curso.
+Este repositório contém um exercício prático de HTML, CSSe Java Script que explora a criação e estilização de páginas da web com base em todo conteudo ensinado no módulo do curso.
 
 ---
 
@@ -15,7 +15,8 @@ Este repositório contém um exercício prático de HTML e CSS que explora a est
 O objetivo principal deste projeto foi desenvolver um portfólio com os projetos desenvolvidos.
 A página foi elaborada utilizando os conhecimentos passados do curso, incluindo o HTML, CSS e Java Script, adicionando a página seu próprio toque e estilo desejado, com suas informações e projetos desenvolvidos.
 
-## Desafio: Portfólio Front-end
+### 👇🏻 Desafio: Portfólio Front-end
+
 Crie seu próprio portfólio front-end, atentando-se para que seja autêntico, visualmente atraente e responsivo. Sinta-se livre para utilizar as tecnologias que desejar e expressar sua personalidade e estilo através do design e dos elementos interativos do seu portfólio. Após concluir, você pode hospedá-lo em uma plataforma de sua escolha, como GitHub Pages, Netlify, Vercel, etc.
 ---
 
