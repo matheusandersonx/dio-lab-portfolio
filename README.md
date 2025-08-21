@@ -25,7 +25,7 @@ Para ver o projeto em funcionamento, siga estes passos simples:
 
 1.  **Baixe os arquivos**
 2.  **Abra o Arquivo:**
-    Localize o arquivo `index.html` e abra-o diretamente em seu navegador web preferido (Chrome, Firefox, Edge, etc.).
+    Localize o arquivo `index.html` e abra-o diretamente em seu navegador web preferido (Chrome, Firefox, Edge, etc.) ou pelo link: https://matheusandersonx.github.io/dio-lab-portfolio/
 
 ---
 
